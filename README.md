@@ -1,14 +1,14 @@
 <h2 align="center" style="color: #2F70AF; font-size: 40px; font-weight: bold;">Hi 👋, I'm <span style="color: #2F70AF; font-weight: semibold;">Md Al-Amin Hossain</span></h2>
 <h3 align="center" style="color: #72a5d3;">Frontend Developer || JavaScript || React || Node.js || Express</h3> <hr><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamindjp" alt="alamindjp" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamindjp" alt="github" /></a> </p>
 
 - 🔭 I’m currently working on [Coders Clinic](https://coders-clinic-fc76f.web.app/)
-- 🌱 I’m currently learning **JavaScript, MongoDB**
-- 👨‍💻 All of my projects are available at [https://alaminkushtia.netlify.app](https://alaminkushtia.netlify.app)
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React**
+- 🌱 I’m currently learning **Backend Development**
+- 👨‍💻 All of my projects are available at [Portfolio](https://alaminkushtia.netlify.app)
 - 📫 How to reach me **alaminhossaindjp@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/16BMlIPWTVTRVR_CLvM3R8EawzAJgCvLD/view?usp=sharing](https://drive.google.com/file/d/16BMlIPWTVTRVR_CLvM3R8EawzAJgCvLD/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16BMlIPWTVTRVR_CLvM3R8EawzAJgCvLD/view?usp=sharing)
 <h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://linkedin.com/in/alamindjp" style="padding: 10px;" target="_blank">
@@ -52,8 +52,8 @@
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>
  </p>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamindjp&show_icons=true&locale=en&layout=compact" height="300px" width="400px" alt="alamindjp" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alamindjp&show_icons=true&locale=en" height="300px" width="400px" style="margin-left: 10px" alt="alamindjp" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamindjp&show_icons=true&locale=en&layout=compact" height="300px" width="500px" alt="alamindjp" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alamindjp&show_icons=true&locale=en" height="300px" width="500px" style="margin-left: 10px" alt="alamindjp" />
 </p>
 <p style="width: 700px; margin: 0 auto; "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamindjp&" height="300px" width="600px" alt="alamindjp" /></p>
 
