@@ -55,5 +55,5 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamindjp&show_icons=true&locale=en&layout=compact" height="300px" width="400px" alt="alamindjp" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alamindjp&show_icons=true&locale=en" height="300px" width="400px" style="margin-left: 10px" alt="alamindjp" />
 </p>
-<p style="width: 800px; margin: 0 auto; "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamindjp&" height="300px" width="600px" alt="alamindjp" /></p>
+<p style="width: 600px; margin: 0 auto; "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamindjp&" height="300px" width="400px" alt="alamindjp" /></p>
 
