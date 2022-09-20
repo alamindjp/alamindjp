@@ -1,8 +1,6 @@
 <h2 align="center" style="color: #2F70AF; font-size: 40px; font-weight: bold;">Hi 👋, I'm <span style="color: #2F70AF; font-weight: semibold;">Md Al-Amin Hossain</span></h2>
 <h3 align="center" style="color: #72a5d3;">Frontend Developer || JavaScript || React || Node.js || Express</h3> <hr><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamindjp" alt="github" /></a> </p>
-
 - 🔭 I’m currently working on [Coders Clinic](https://coders-clinic-fc76f.web.app/)
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React**
 - 🌱 I’m currently learning **Backend Development**
@@ -56,4 +54,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alamindjp&show_icons=true&locale=en" height="300px" width="400px" style="margin-left: 10px" alt="alamindjp" />
 </p>
 <p style="width: 600px; margin: 0 auto; "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamindjp&" height="300px" width="400px" alt="alamindjp" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamindjp" alt="github" /></a> </p>
 
